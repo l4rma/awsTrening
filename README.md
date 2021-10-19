@@ -1,4 +1,4 @@
-#DevOps Øving
+## DevOps Øving
 * [x] Lag spring boot app
 * [x] Github repo
 * [x] Dockerfile, build og run docker
